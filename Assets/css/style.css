@@ -80,7 +80,7 @@ a {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color:#ffffff
+    color:#ffffff;
 }
 
 .social-media-marketing {
@@ -96,13 +96,12 @@ a {
 #float-left{
     float: left;
     margin-right: 25px;
-    position: relative;
 }
 
 #float-right {
     float: right;
-    padding: 10px;
-    position: relative;
+    padding: 20px;
+
 }
 
 .search-engine-optimization img {
